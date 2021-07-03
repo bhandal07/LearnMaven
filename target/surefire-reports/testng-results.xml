@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5691" started-at="2021-06-27T04:46:23 UTC" finished-at="2021-06-27T04:46:28 UTC">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5691" started-at="2021-06-27T04:46:23 UTC" finished-at="2021-06-27T04:46:28 UTC">
+      <class name="PageTest.LoginPagetest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:PageTest.LoginPagetest@23faf8f2]" name="setup" is-config="true" duration-ms="2478" started-at="2021-06-27T04:46:23 UTC" finished-at="2021-06-27T04:46:25 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginPass()[pri:0, instance:PageTest.LoginPagetest@23faf8f2]" name="LoginPass" duration-ms="2820" started-at="2021-06-27T04:46:25 UTC" finished-at="2021-06-27T04:46:28 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPass -->
+        <test-method status="PASS" signature="setupClose()[pri:0, instance:PageTest.LoginPagetest@23faf8f2]" name="setupClose" is-config="true" duration-ms="355" started-at="2021-06-27T04:46:28 UTC" finished-at="2021-06-27T04:46:28 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupClose -->
+      </class> <!-- PageTest.LoginPagetest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
